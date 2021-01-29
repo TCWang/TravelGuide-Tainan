@@ -46,47 +46,42 @@ img {
 }
 
 .jumbotron-bg1 {
-	background-image: url("../fig/TGE-1101-EastCoastBanner-07.jpg");
+	background-image: url("../fig/TGN-1101-TainanBanner-01.jpg");
 	background-size: cover;
 	background-position: center center;
 	min-height: 300px
 }
 .jumbotron-bg2 {
-	background-image: url("../fig/TGE-1101-EastCoastBanner-08.jpg");
+	background-image: url("../fig/TGN-1101-TainanBanner-02.jpg");
 	background-size: cover;
 	background-position: center center;
 	min-height: 300px
 }
 .jumbotron-bg3 {
-	background-image: url("../fig/TGE-1101-EastCoastBanner-03.jpg");
+	background-image: url("../fig/TGN-1101-TainanBanner-03.jpg");
 	background-size: cover;
 	background-position: center center;
 	min-height: 300px
 }
 .jumbotron-bg4 {
-	background-image: url("../fig/TGE-1101-EastCoastBanner-04.png");
+	background-image: url("../fig/TGN-1101-TainanBanner-04.jpg");
 	background-size: cover;
 	background-position: center center;
 	min-height: 300px
 }
 .jumbotron-bg5 {
-	background-image: url("../fig/TGE-1101-EastCoastBanner-05.jpg");
+	background-image: url("../fig/TGN-1101-TainanBanner-05.jpg");
 	background-size: cover;
 	background-position: center center;
 	min-height: 300px
 }
 .jumbotron-bg6 {
-	background-image: url("../fig/TGE-1101-EastCoastBanner-06.jpg");
+	background-image: url("../fig/TGN-1101-TainanBanner-06.jpg");
 	background-size: cover;
 	background-position: center center;
 	min-height: 300px
 }
-.jumbotron-bg11 {
-	background-image: url("../fig/ECH-01-Banner-11.jpg");
-	background-size: cover;
-	background-position: center center;
-	min-height: 300px
-}
+
 .navbar{
     background-color:#000066 !important;
 }
