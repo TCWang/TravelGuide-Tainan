@@ -145,21 +145,8 @@
     <!-- InstanceBeginEditable name="main_content" -->
 	<main>
         <div class="row">
-          <div class="col-md-3 col-lg-2">
-            <aside class="sidebar1">
-              	<h5>類別</h5>
 
-				<div class="list-group" id="MenuList" role="tablist">
-				  <a href="#Article-01" class="list-group-item list-group-item-action active" data-toggle="list">餐廳匯總</a>
-				  <a href="#Article-02" class="list-group-item list-group-item-action" data-toggle="list">西餐</a>
-				  <a href="#Article-03" class="list-group-item list-group-item-action" data-toggle="list">中餐</a>
-				  <a href="#Article-04" class="list-group-item list-group-item-action" data-toggle="list">小吃</a>
-				</div>
-				<br><br>				
-			</aside>
-          </div>
-          <div class="col-md-9 col-lg-10">
-            <div class="tab-content">
+
 
             <!-- Articla 01-->
               <div class="tab-pane active" id="Article-01" role="tabpanel">
@@ -183,7 +170,11 @@
 											<dd>開放時間：{{post.Hours}}</dd>
 									
 										</dl>
-										<img v-bind:src="post.Figure" class="img-fluid">
+										
+										<a v-bind:href="post.Link">
+											<img v-bind:src="post.Figure" class="img-fluid">
+										</a>										
+										
 
 
 										</p>
@@ -197,91 +188,7 @@
                 </article>
               </div>
 
-              <!-- Articla 02-->
-              <div class="tab-pane" id="Article-02" role="tabpanel">
-                <article>
-				  <h3>西餐</h3>
-					<section>
-						<div id='app2' class="row" v-for="posts in results">
-							<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4" v-for="post in posts">
-								<div class="card">
-									<div class="card-header">
-										<a v-bind:href="post.Link">
-											{{ post.Name }}
-										</a>
-									</div>
-									<div class="card-body">
-										<p class="card-text">
-										<dl>
-											<dd>地區：{{post.Area}}</dd>
-											<dd>地址：{{post.Address}} </dd>
-											<dd>電話：{{post.Tel}}</dd>
-											<dd>房價：{{post.Price}}</dd>
-											<dd>星級：{{post.Star}} </dd>
-										</dl>
-										<img v-bind:src="post.Figure" class="img-fluid">
-
-										</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
-
-				</article>
-              </div>
-
-              <!-- Articla 03-->
-              <div class="tab-pane " id="Article-03" role="tabpanel">
-                <article>
-					<h3>中餐</h3>
-					<section>
-						<div id='app3' class="row" v-for="posts in results">
-							<div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4" v-for="post in posts">
-								<div class="card">
-									<div class="card-header">
-										<a v-bind:href="post.Link">
-											{{ post.Name }}
-										</a>
-									</div>
-									<div class="card-body">
-										<p class="card-text">
-										<dl>
-											<dd>地區：{{post.Area}}</dd>
-											<dd>地址：{{post.Address}} </dd>
-											<dd>電話：{{post.Tel}}</dd>
-											<dd>房價：{{post.Price}}</dd>
-											<dd>星級：{{post.Star}} </dd>		
-										</dl>
-										<img v-bind:src="post.Figure" class="img-fluid">
-										</p>
-									</div>
-								</div>
-							</div>
-						</div>
-
-					</section>
-
-                </article>
-              </div>
-
-              <!-- Articla 04-->
-              <div class="tab-pane " id="Article-04" role="tabpanel">
-                <article>
-					<h3>小吃</h3>
-					<section>
-
-
-					</section>
-
-                </article>
-              </div>				
-				
-	          <!-- Next Aritical -->	
-				
-            </div>
-
-          </div>
+   
 
         </div>
 
