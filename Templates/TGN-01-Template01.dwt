@@ -80,7 +80,7 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
-              <i class="fas fa-hot-tub">旅館住宿</i>
+              <i class="fas fa-hot-tub">旅館住宿 </i>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="../TGN-410-HotelBooking.html">訂房資訊</a>
