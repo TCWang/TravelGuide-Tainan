@@ -73,7 +73,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="../TGN-310-TravelInformation.html">旅遊資訊</a>
               <a class="dropdown-item" href="../TGN-320-Sightseeing.html">觀光景點</a>
-              <a class="dropdown-item" href="../TGN-330-Hiking.html">郊外旅遊</a>
+              <a class="dropdown-item" href="../TGN-330-TravelPlan.html">旅遊計畫</a>
               <a class="dropdown-item" href="../TGN-340-History.html">歷史回顧</a>			
             </div>
           </li>
