@@ -1,0 +1,32 @@
+﻿[
+        {
+            "No": "01",
+            "Category": "台南民宿",
+            "Area": "安平區",
+            "Name": "來佇",
+            "Address": "台南市安平區同平路156巷5之1號",
+            "Tel": "0908-092-206",
+            "Figure": "fig/TGN-4201-BandB-01.jpg",
+            "Link": "https://teddybooboo15.wixsite.com/todwell?fbclid=IwAR11B7bx8iMUXROjUMawsU1FOdj2LuCvbSzJU9-Upu4PsKPBS-_Zp141cdM"
+        },
+        {
+            "No": "02",
+            "Category": "台南民宿",
+            "Area": "安平區",
+            "Name": "樹說",
+            "Address": "台南市安平區州平二街12號",
+            "Tel": "0977-014-625",
+            "Figure": "fig/TGN-4201-BandB-02.png",
+            "Link": "http://tainanwuhouse.com/"
+        },
+        {
+            "No": "03",
+            "Category": "台南民宿",
+            "Area": "中西區",
+            "Name": "凝徑",
+            "Address": "台南市中西區西門路一段676巷13號",
+            "Tel": "0933-847-861",
+            "Figure": "fig/TGN-4201-BandB-03.jpg",
+            "Link": "https://www.facebook.com/RealityInn.Tainan"
+        }
+    ]
