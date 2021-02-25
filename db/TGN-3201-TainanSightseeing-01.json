@@ -271,5 +271,17 @@
             "Hours": "24 小時營業",
             "Figure": "fig/ISL-3104-TainanGuide-25.jpeg",
             "Link": "https://www.twtainan.net/zh-tw/attractions/detail/810"
+        },
+        {
+            "NO": "26",
+            "Name": "台灣船園區",
+            "Category": "台南",
+            "Area": "安平區",
+            "Description": "臺灣船長30公尺、寬7.6公尺、主桅高28公尺、重約150 公噸，依日本長崎縣的松浦史料博物館所保存1706年的《唐船之圖》畫卷中〈臺灣船圖〉為藍圖仿製而成，園區以「新船裝老靈魂」的方式重現台灣17世紀海上盛事之景，展出國內第一艘大型仿古船，並結合現代與傳統技術，以空間設計使臺灣船園區具體呈現了臺灣的海洋文化歷史，讓人經歷各種與臺灣船特殊經驗的空間感。",
+            "Address": "台南市安平區安億路139號",
+            "Tel": "+886-6-295-9728",
+            "Hours": "週二至週五 10：00~18：00, \r\n\r\n週六、週日及國定假日  10:00~20:00, \r\n\r\n週一公休",
+            "Figure": "fig/ISL-3104-TainanGuide-26.jpeg",
+            "Link": "http://taiwanwarship.tainan.gov.tw/"
         }
     ]
