@@ -63,6 +63,12 @@ img {
 	background-position: center center;
 	min-height: 300px
 }
+.jumbotron-bg34 {
+	background-image: url("../fig/TGN-1101-TainanBanner-34.jpg");
+	background-size: cover;
+	background-position: center center;
+	min-height: 300px
+}
 .jumbotron-bg4 {
 	background-image: url("../fig/TGN-1101-TainanBanner-04.jpg");
 	background-size: cover;
