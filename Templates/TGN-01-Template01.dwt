@@ -36,7 +36,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-user">旅遊準備</i> </a>
+            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-user">旅遊資訊</i> </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown"> 
 			<a class="dropdown-item"  href="../index.html">相關網站</a> 
 			<!--
@@ -48,7 +48,7 @@
       <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="fas fa-suitcase">旅遊導覽</i> </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown"> 
-			<a class="dropdown-item" href="../TGN-210-Location.html">地理位置</a> 
+			<a class="dropdown-item" href="../TGN-210-Location.html">台南簡介</a> 
 			<!--
 			<a class="dropdown-item" href="../TGN-220-TravelGuide.html">旅行導遊</a> 
 			-->
